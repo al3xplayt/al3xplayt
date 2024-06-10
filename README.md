@@ -15,7 +15,7 @@ Siempre estoy abierto a nuevas oportunidades de aprendizaje y colaboración. Si 
 ## Mis tecnologías 💻:
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,mysql&theme=light)](https://skillicons.dev)
-<a href="https://skillicons.dev"><img src="./ora.png" alt="Oracle" width="50" height="50"></a>
+<a href="https://skillicons.dev"><img src="./ora.png" alt="Oracle" width="50" height="50" style="border-radius: 70%;"></a>
 [![My Skills](https://skillicons.dev/icons?i=py,git&theme=light)](https://skillicons.dev)
 ## Mis Proyectos
 
